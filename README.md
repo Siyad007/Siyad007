@@ -1,16 +1,13 @@
 # Hi there! 👋 I'm Siyad
 
-Aspiring data scientist and full-stack developer. Passionate about machine learning and web development.
-
+Full Stack Developer passionate about building robust, scalable, and user-friendly applications. Skilled in developing secure backends with Java, Spring Boot, PostgreSQL/MySQL and creating modern frontends with React.js, Next.js, and Tailwind CSS. Strong knowledge of REST APIs, authentication, and database design, with hands-on experience in real-world projects.
 ## Skills
 - **Languages:** Python, Java, JavaScript
 - **Frameworks:** React, Node.js, Express
 - **Machine Learning:** TensorFlow, Scikit-learn
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL,PostgressSql
 
-## Projects
-- **Machine Learning:** Classifiers, deep learning models.
-- **Web Development:** Full-stack applications with responsive design.
+
 
 ## Connect with Me
 - **Email:** siyadsidu760@gmail.com
